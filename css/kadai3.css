@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+     color:red;
+ background-color: azure;  
+ }
+body{
+    background-image: url(../images/images.jfif); 
+}
+h2{
+     text-align: center;
+    background-color: azure;  
+    color: red;
+}
+h3{
+     text-align: center;
+    background-color: azure;  
+    color: red;
+}
+p{
+    color:blue;
+}
