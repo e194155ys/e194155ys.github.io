@@ -11,13 +11,15 @@ p{
     color:darkorange;
 }
 .stag{
-   text-align: center;
+    text-align: center;
     background-color:chocolate;
     color:darkslateblue;
 }
 .game{
+    text-align: center;
     background-color:plum;
     color:white;
+   
 }
 .link{
     background-color:yellow;
