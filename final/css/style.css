@@ -1,0 +1,72 @@
+
+.title{
+    border:8px dashed gold ;
+    margin-top: 1px;
+   margin-bottom: 0px;
+    height:60px;
+    font-family:fantasy;
+    text-align: center;
+    background-color:darkslategrey;
+    color: crimson;
+  }
+body{
+    background-image: url("../images/mt.jfif");
+    
+    
+}
+span.menu1{
+    display: inline-block;
+    width: 300px;
+    height: 50px;
+background-color: darkslategray;
+    line-height: 2.5;
+    border:8px dashed gold;
+    font-family: fantasy;
+    text-align: center;
+    color: crimson;
+    font-size: 20px;
+}
+span.menu2{
+    display: inline-block;
+    width: 300px;
+    height: 50px;
+background-color: darkslategray;
+    line-height: 2.5;
+    border:8px dashed gold;
+    font-family: fantasy;
+    text-align: center;
+    color: crimson;
+    font-size: 20px;
+}
+span.menu3{
+    display: inline-block;
+    width: 300px;
+    height: 50px;
+background-color: darkslategray;
+    line-height: 2.5;
+    border:8px dashed gold;
+    font-family: fantasy;
+    text-align: center;
+    color: crimson;
+    font-size: 20px;
+}
+span.menu4{
+    display: inline-block;
+    width: 300px;
+    height: 50px;
+background-color: darkslategray;
+    line-height: 2.5;
+    border:8px dashed gold;
+    font-family: fantasy;
+    text-align: center;
+    color: crimson;
+    font-size: 20px;
+}
+.footer{
+    display: inline-block;
+    width: 1460px;
+    height: 50px;
+    background-color: darkslategray;
+    border: 8px dashed gold;
+    color: crimson;
+}  
